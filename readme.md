@@ -28,7 +28,7 @@ There should have a 'Preview' button on the page. When you click it, the button 
 * Understand and use the concept of 'store'
 * Understand and use the concept of 'action'
 * Understand and use concept of 'reducer'
-* Design the proper folder structure fro Redux
+* Design the proper folder structure for Redux
 * Distinguish the difference between App container and UI component
 * Extract the state logic into Redux
 * Integrate React and Redux
